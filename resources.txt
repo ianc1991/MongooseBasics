@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=DZBGEVgL2eE&list=WL&index=15
+
+Step by step: https://www.section.io/engineering-education/nodejs-mongoosejs-mongodb/
