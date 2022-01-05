@@ -10,9 +10,10 @@ const app = express();
 app.use(express.json());
 app.use(Router);
 
-const username = 'ian';
-const password = 'C3zCZM0Y4vGt';
-const cluster = 'cluster0.k4yms';
+// Fill in the blanks
+const username = '';
+const password = '';
+const cluster = '';
 const dbName = 'MongooseBasics';
 // The URL of the MongoDB.
 const mongoDB = `mongodb+srv://${username}:${password}@${cluster}.mongodb.net/${dbName}?retryWrites=true&w=majority`
